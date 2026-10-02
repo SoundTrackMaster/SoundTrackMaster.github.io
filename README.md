@@ -20,8 +20,10 @@ There is no build step and no dependencies — GitHub Pages serves these files e
 - **Music catalogue** — on every visit the page reads the current release list (titles, dates, durations, official previews and cover art) and renders the cards itself, so new releases appear automatically without any edits to this repository.
 - **Contact** — the contact form on the site delivers messages directly to the studio inbox.
 
-## Copyright
+## Copyright and licence
 
 © 2026 SoundTrackMaster. All rights reserved.
 
-All music, artwork, video and text in this repository are the property of SoundTrackMaster and may not be reproduced, redistributed or used without permission.
+This repository is **proprietary** — see [LICENSE](LICENSE) for the full terms. All music, artwork, video and text in this repository are the property of SoundTrackMaster and may not be reproduced, redistributed or used without written permission.
+
+Licensing, sync and commercial enquiries: **soundtrackmaster2011@gmail.com**
